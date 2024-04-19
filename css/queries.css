@@ -100,8 +100,8 @@
     padding: 2.4rem 3.2rem 3.2rem 3.2rem;
   }
 
-  .section-testimonials {
-    grid-template-columns: 1fr;
+  .testimonials-inner {
+    flex-direction: column;
   }
 
   .gallery {
